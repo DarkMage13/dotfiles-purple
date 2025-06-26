@@ -27,7 +27,7 @@ symbol = " "
 
 [directory]
 read_only = " 󰌾"
-style = 'bold fg:yellow'
+style = 'bold fg:teal'
 format = '[$path ]($style)'
 truncation_length = 3
 truncation_symbol = '…/'

@@ -1,6 +1,6 @@
 * {
     width: 900;
-    font: "JetBrainsMono Nerd Font 14";
+    font: "JetBrainsMono Medium";
 }
 
 @import "./colors.rasi"
