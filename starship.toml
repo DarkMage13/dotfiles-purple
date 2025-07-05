@@ -186,10 +186,13 @@ symbol = " "
 symbol = " "
 
 [character]
-success_symbol = '[](bold fg:teal)'
-error_symbol = '[](bold fg:purple)'
+success_symbol = '[](bold fg:success)'
+error_symbol = '[](bold fg:error)'
 
 [palettes.onedark]
+success='#0000ee'
+error='#bb00ee'
+
 dark_blue='#61afef'
 blue='#56b6c2'
 teal = '#00eeff'

@@ -5,6 +5,6 @@
 @define-color blue rgba(0,0,238,1);
 @define-color light-blue rgba(0,186,238,1); 
 @define-color teal rgba(0,238,238,1);
-@define-color white rgba(286,238,238,1);
+@define-color white rgba(186,238,238,1);
 /* Left module */
 @define-color dark-crust rgba(0,0,35,0.65);

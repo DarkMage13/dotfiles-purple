@@ -22,8 +22,9 @@ window#waybar {
 
 .modules-left {
 	padding: 0 12px;
-	border-radius: 32px;
-	background: linear-gradient(15deg, rgba(0,186,186,0.75), rgba(153,0,186,0.75));
+	border-radius: 4px 16px 4px 16px;
+	border: 2px solid @dark-crust;
+    background: linear-gradient(15deg, rgba(0,186,186,0.75), rgba(153,0,186,0.75));
 }
 
 .modules-center {
@@ -80,7 +81,7 @@ button:hover {
     padding: 0 12px;
 	background-color: @crust;
     margin: 4px;
-    border-radius: 32px;
+	border-radius: 16px 4px 16px 4px;
 }
 
 #network {
